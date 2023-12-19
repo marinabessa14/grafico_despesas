@@ -1,0 +1,30 @@
+[
+    {
+      "dia": "seg",
+      "gastos": 50.00
+    },
+    {
+      "dia": "ter",
+      "gastos": 34.90
+    },
+    {
+      "dia": "qua",
+      "gastos": 60.89
+    },
+    {
+      "dia": "qui",
+      "gastos": 200.00
+    },
+    {
+      "dia": "sex",
+      "gastos": 89.90
+    },
+    {
+      "dia": "sab",
+      "gastos": 70.00
+    },
+    {
+      "dia": "dom",
+      "gastos": 150.00
+    }
+  ]
